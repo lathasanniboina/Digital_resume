@@ -55,4 +55,20 @@ body {
   ul li {
     margin-bottom: 10px;
   }
+  .edu-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .edu-left {
+    flex: 1;
+  }
+  
+  .edu-right {
+    white-space: nowrap;
+    text-align: right;
+    margin-left: 20px;
+    color: #555;
+  }
   
